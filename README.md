@@ -6,7 +6,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-#- 🔭 I’m currently working on **AIML Nexus**
+###- 🔭 I’m currently working on **AIML Nexus**
 
 - 🌱 I’m currently learning **Next.js, Three.js, Deep Learning Architectures**
 
